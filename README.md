@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siri6k
 - 👀 I’m interested in data science and Web3 dev
-- 🌱 I’m currently learning back end with Django and python
-- 💞️ I’m looking to collaborate on web3 project and data analysis project
+- 🌱 I'm learning Django, ReactJs and API-REST with Postman
+- 💞️ I’m looking to collaborate on Django and Python project.
 - 📫 How to reach me mail adamchriskay@gmail.com
 
 <!---
