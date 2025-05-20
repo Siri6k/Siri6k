@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siri6k
 - 👀 I’m interested in data science and Web3 dev
-- 🌱 I'm learning Django, ReactJs and API-REST with Postman
-- 💞️ I’m looking to collaborate on Django and Python project.
+- 🌱 I'm  Django, ReactJs and API-REST developpers
+- 💞️ I’m looking collaboration on fullstack project involved Django and Python and reactJS.
 - 📫 Reach me [here](https://adamchrisk.vercel.app/)
 
 <!---
